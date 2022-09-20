@@ -1,0 +1,5 @@
+env/
+pagin/.env
+api/__pycache__
+pagin/__pycache__
+db.sqlite3
